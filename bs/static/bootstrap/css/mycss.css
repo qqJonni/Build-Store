@@ -1,0 +1,17 @@
+.navbar {
+    background-color: rgb(226, 233, 231);
+}
+
+.navbar-brand img {
+    width: 40px;
+}
+#start-purchase-btn {
+    background-color: #23364e;
+    border-color: #23364e;
+    color: white;
+}
+
+#start-purchase-link {
+    text-decoration: none;
+    color: white;
+}
